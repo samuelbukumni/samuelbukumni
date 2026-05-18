@@ -28,6 +28,6 @@ I am a Computer Information Systems student at OAU(Obafemi Awolowo University Il
 ### 📊 Stats & Connectivity
 * 🔭 Currently researching: AI Solutions & Cybersecurity frameworks.
 * 🌱 Learning: Advanced Cloud Infrastructure and Model Deployment.
-* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuelbukumni) 
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oguntona-samuel) 
 
 *"Precision in architecture determines the strength of the solution."*
