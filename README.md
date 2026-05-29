@@ -1,4 +1,4 @@
-## Hi, I'm Samuel Bukumni 👋
+## Hi, I'm Samuel Oguntona👋
 ### Aspiring AI Solutions Architect
 
 I am a Computer Information Systems student at OAU(Obafemi Awolowo University Ile Ife , Nigeria) dedicated to building intelligent, scalable systems. I specialize in bridging the gap between raw data and functional automation, with a particular focus on Python-driven architecture and system security.
