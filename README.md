@@ -54,12 +54,6 @@ Automated PDF proposal generator built with Streamlit and Python. Designed to el
 
 ---
 
-### 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelbukumni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguntona-samuel-a20778391)
