@@ -1,20 +1,20 @@
 # Hi, I'm Samuel Oguntona 👋
 
-### Cloud Security & AI Infrastructure Engineer
+### Future CTO: Cloud Infrastructure & Security Engineer
 
 > *"If I can BUILD it, DEPLOY it, and SECURE it — I understand the system."*
 
-I'm a Computer Information Systems student at **Obafemi Awolowo University, Nigeria**, building toward a career at the intersection of cloud engineering, security, and practical AI deployment. I'm not chasing theory — I build things, break them ethically, and learn by doing.
+I'm a Computer Information Systems student at **Obafemi Awolowo University, Nigeria**, building expertise in cloud engineering, security, and automation. I don't chase theory — I build things, break them ethically, and learn by doing.
 
 ---
 
 ### 🧠 What I'm About
 
-```
+
 CORE      →  Cloud Engineering / DevOps
 ADD-ON 1  →  Security (I understand vulnerabilities, I secure systems)
-ADD-ON 2  →  AI (I deploy AI systems, I don't just talk about them)
-```
+ADD-ON 2  →  Automation (I build workflows that save time)
+
 
 ---
 
@@ -62,3 +62,4 @@ Automated PDF proposal generator built with Streamlit and Python. Designed to el
 ---
 
 *Lagos, Nigeria · Open to remote opportunities*
+```
