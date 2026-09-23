@@ -1,162 +1,300 @@
 <div align="center">
 
-# Hi, I'm Samuel Oguntona.
+# Hi, I'm Samuel Oguntona 👋
 
-### Tech Explorer · Information Systems · Building things to understand how they work.
+### `TECH EXPLORER` · Information Systems · Builder
 
-I move between **software, cloud, Linux, AI and systems** —  
-usually following an idea far enough to turn it into something real.
+**Cloud · Linux · Software · AI Systems · Security · Automation**
 
-**Buks Samuel** around the internet.
+> *"If I can build it, understand it, deploy it and improve it — I'm learning the system."*
+
+I'm an **Information Systems student at Obafemi Awolowo University, Nigeria**, learning technology primarily by building with it.
+
+I work across software, infrastructure and emerging technologies — following ideas far enough to understand how the different pieces of a system actually fit together.
+
+**Most people online know me as Buks Samuel.**
 
 <br>
 
 <a href="https://www.linkedin.com/in/oguntona-samuel/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel_Oguntona-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/bukssamuel25">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@bukssamuel25-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 <a href="https://github.com/samuelbukumni">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-samuelbukumni-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:samuelbukumni@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
 ---
 
-### `$ whoami`
-
-```yaml
-name: Samuel Oguntona
-also_known_as: Buks Samuel
-studying: Information Systems @ Obafemi Awolowo University
-interested_in:
-  - Cloud & infrastructure
-  - Linux & systems
-  - Software
-  - AI systems
-  - Security
-currently: Building, learning, experimenting
-```
-
-I study **Information Systems**, but most of what I know about technology comes from trying to build things with it.
-
-I'm interested in the full path from **problem → product → software → infrastructure**.
-
-That curiosity has taken me through digital marketplaces, AI orchestration, automation, databases, cloud infrastructure and a few experiments that are still sitting somewhere between *“this might work”* and *“okay, this is actually becoming a project.”*
-
----
-
-# Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## The Middleman
-
-**Escrow-backed digital commerce.**
-
-A marketplace designed around safer transactions for digital products and services in Nigeria.
-
-I'm currently working across its authentication, database architecture, buyer/seller flows, payments and transaction lifecycle.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
-
-**[→ Visit the product](https://www.themiddleman.com.ng)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## S.A.M.U.E.L.
-
-**A personal AI system.**
-
-Smart Autonomous Multifunctional Utility Engine for Learning.
-
-An experiment in modular AI orchestration, permissions, automation and hybrid local/cloud architecture.
-
-`Python` `AI Systems` `Automation`
-
-**[→ Repository](https://github.com/samuelbukumni/SAMUEL)**
-
-</td>
-</tr>
-</table>
-
-### RUN-N-RAVE Proposal Engine
-
-A smaller automation project built to turn repetitive proposal preparation into a structured workflow.
-
-`Python` · `Streamlit` · `PDF Automation`
-
-**[→ Repository](https://github.com/samuelbukumni/Proposal-Architect)**
-
----
-
-## Things I'm exploring
+## `> whoami`
 
 ```text
-~/explorations
+Name        : Samuel Oguntona
+Alias       : Buks Samuel
+Field       : Information Systems
+University  : Obafemi Awolowo University
+Base        : Nigeria
 
-├── cloud
-│   ├── networking
-│   ├── infrastructure
-│   └── deployment
-│
-├── systems
-│   ├── linux
-│   └── security
-│
-├── ai
-│   ├── orchestration
-│   └── multi-agent systems
-│
-└── experiments
-    ├── education technology
-    └── offline-first systems
+Identity    : Tech Explorer
+Approach    : Build → Understand → Improve
+Current     : Learning • Building • Experimenting
 ```
 
-I don't claim expertise in all of these.
+I'm interested in more than one layer of technology.
 
-Some I'm actively learning. Some I'm building with. Some I'm simply curious enough about to investigate.
+I like understanding **what a system is supposed to solve, how the software works, where the data lives, what infrastructure keeps it running, what can break, and how the whole thing can be improved.**
+
+That has naturally pulled me into:
+
+`Cloud` · `Linux` · `Software` · `Databases` · `AI` · `Security` · `Automation`
+
+I'm still building my foundations across several of these areas — and that's exactly why **Tech Explorer** fits how I work.
 
 ---
 
-## Tools I keep reaching for
+## 🧠 What I'm About
+
+My direction is broader than a single job title, but it isn't random.
+
+```text
+CORE        →  Information Systems
+
+BUILD       →  Software & Products
+
+SYSTEMS     →  Cloud · Linux · Networking
+
+LOGIC       →  Python · Automation
+
+SECURITY    →  Understanding & protecting systems
+
+AI          →  Orchestration · Agents · Practical integration
+```
+
+### Current signal
+
+> These aren't proficiency percentages. They're a snapshot of where my attention is currently going.
+
+```text
+CLOUD       █████████░  Building foundations
+LINUX       ██████████  Daily driver
+PYTHON      ████████░░  Building & learning
+SECURITY    ███████░░░  Developing foundations
+AI SYSTEMS  ████████░░  Experimenting
+PRODUCTS    ██████████  Building
+```
+
+My Information Systems background is part of what makes this combination interesting to me.
+
+I don't only want to know **how to code a feature**.
+
+I want to understand how the feature fits into the database, infrastructure, users, security, business process and wider system around it.
+
+---
+
+## 🛠️ Technical Stack
+
+| Layer | Technologies & Tools |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **Web** | Next.js · React · Tailwind CSS |
+| **Backend & Data** | Supabase · PostgreSQL |
+| **Cloud & Deployment** | Vercel · AWS *(learning)* |
+| **Systems** | Linux · Networking fundamentals |
+| **Security** | Web security fundamentals · OWASP concepts |
+| **Developer Tools** | Git · GitHub · VS Code · Streamlit |
+| **Environment** | Linux Mint Cinnamon *(daily driver)* |
+
+### Tools I keep reaching for
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,postgres,supabase,linux,git,github,vercel,aws&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,postgres,supabase,linux,git,github,vercel&perline=12" alt="Technology icons"/>
 </p>
 
-`Python` · `TypeScript` · `JavaScript` · `SQL` · `Next.js` · `React`  
-`PostgreSQL` · `Supabase` · `Linux` · `Git` · `Vercel` · `AWS`
+I don't treat this as a list of technologies I've “mastered.”
+
+It's simply the toolkit I'm currently **using, learning or building with**.
 
 ---
 
-## Outside the repo
+## 🚀 Projects
 
-I'm interested in meeting **builders, engineers, students and founders from different parts of the world** — particularly people willing to share what they're learning, building or seeing in their part of tech.
+### 🔐 The Middleman
 
-If you're working on something strange, ambitious or genuinely useful, say hi.
+> **Escrow-backed digital commerce for Nigeria.**
 
-<p>
-<a href="https://www.linkedin.com/in/oguntona-samuel/"><b>LinkedIn ↗</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/bukssamuel25"><b>X ↗</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL"><b>Email ↗</b></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<b>Portfolio — soon</b>
-</p>
+**The Middleman** is a digital marketplace designed around safer transactions between buyers and sellers of digital products and services.
+
+I'm working across both the product and technical system, including:
+
+- marketplace workflows
+- authentication
+- buyer and seller identity
+- database architecture
+- order lifecycle
+- payments
+- escrow transaction logic
+- deployment
+- responsive product experience
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+
+**Status:** `ACTIVE BUILD`
+
+🌐 **[Visit The Middleman →](https://www.themiddleman.com.ng)**
 
 ---
 
-<sub>
-Lagos, Nigeria · Open to internships, collaborations, open source and technical opportunities.
-</sub>
+### 🤖 S.A.M.U.E.L.
+
+> **Smart Autonomous Multifunctional Utility Engine for Learning**
+
+A modular personal AI assistant project exploring **orchestration, automation, permissions and hybrid local/cloud AI architecture**.
+
+Instead of treating an assistant as one giant AI process, the project explores a system where a central governor can coordinate different components and specialized agents.
+
+Areas being explored include:
+
+- modular agent architecture
+- task orchestration
+- permission handling
+- automation
+- local/cloud execution
+- structured AI workflows
+
+`Python` `AI Systems` `Automation` `Agent Architecture`
+
+**Status:** `EXPERIMENTAL BUILD`
+
+📂 **[Explore S.A.M.U.E.L. →](https://github.com/samuelbukumni/SAMUEL)**
+
+---
+
+### 📄 RUN-N-RAVE Proposal Engine
+
+> **Automating repetitive proposal preparation.**
+
+A Python and Streamlit tool designed to generate structured PDF proposals and reduce repetitive document preparation for brand activation and partnership workflows.
+
+The project helped me explore how relatively small software tools can turn repetitive manual processes into structured workflows.
+
+`Python` `Streamlit` `PDF Automation`
+
+**Status:** `BUILT`
+
+📂 **[View repository →](https://github.com/samuelbukumni/Proposal-Architect)**
+
+---
+
+## 📈 Currently
+
+```bash
+buks@explorer:~$ status
+
+[+] Building and refining real software products
+[+] Strengthening cloud computing foundations
+[+] Learning networking more deeply
+[+] Using Linux as my daily environment
+[+] Improving Python through practical exercises
+[+] Developing stronger security foundations
+[+] Experimenting with AI orchestration
+[+] Studying Information Systems @ OAU
+```
+
+Right now, I'm deliberately strengthening the fundamentals underneath the things I build.
+
+That means spending more time on **cloud infrastructure, networking, Linux, Python and security**, while continuing to work on products rather than learning everything only in isolation.
+
+The objective isn't to collect technologies.
+
+It's to gradually become better at looking at a system and understanding **what is happening across its layers**.
+
+---
+
+## 🧭 How I Work
+
+Most of my technical learning follows the same path:
+
+```text
+IDEA
+  │
+  ▼
+BUILD SOMETHING
+  │
+  ▼
+SOMETHING BREAKS
+  │
+  ▼
+UNDERSTAND WHY
+  │
+  ▼
+LEARN THE SYSTEM
+  │
+  ▼
+BUILD IT BETTER
+```
+
+That's where I learn best.
+
+A product problem can send me into a database.
+
+A database problem can send me into authentication.
+
+Authentication can send me into security.
+
+Deployment can send me into Linux or networking.
+
+And eventually I understand more of the system than I did when I started.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### Find me around the internet
+
+<br>
+
+<a href="https://www.linkedin.com/in/oguntona-samuel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://x.com/bukssamuel25">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://github.com/samuelbukumni">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:samuelbukumni@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<br><br>
+
+### Portfolio
+
+**`Buks Samuel / Tech Explorer` — currently building.**
+
+<br>
+
+Open to **internships · junior technical roles · collaborations · open source · interesting projects**
+
+<br>
+
+```text
+BUILD  →  UNDERSTAND  →  IMPROVE  →  REPEAT
+```
+
+**Samuel Oguntona**  
+*Buks Samuel online.*
+
+</div>
