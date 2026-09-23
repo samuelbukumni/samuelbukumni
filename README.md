@@ -2,15 +2,15 @@
 
 # Hi, I'm Samuel Oguntona 👋
 
-### `TECH EXPLORER` · Information Systems · Builder
+### `TECH EXPLORER` · Information Systems @ OAU
 
-**Cloud · Linux · Software · AI Systems · Security · Automation**
+**Software · Cloud · Linux · AI Systems · Security · Automation**
 
-> *"If I can build it, understand it, deploy it and improve it — I'm learning the system."*
+> *"Build it. Understand it. Improve it."*
 
-I'm an **Information Systems student at Obafemi Awolowo University, Nigeria**, learning technology primarily by building with it.
+I’m a student at **Obafemi Awolowo University, Nigeria**, learning technology primarily by building with it.
 
-I work across software, infrastructure and emerging technologies — following ideas far enough to understand how the different pieces of a system actually fit together.
+I enjoy following an idea beyond the surface — from the product itself to the code, data, infrastructure and decisions that make the whole thing work.
 
 **Most people online know me as Buks Samuel.**
 
@@ -38,7 +38,6 @@ I work across software, infrastructure and emerging technologies — following i
 ```text
 Name        : Samuel Oguntona
 Alias       : Buks Samuel
-Field       : Information Systems
 University  : Obafemi Awolowo University
 Base        : Nigeria
 
@@ -47,39 +46,27 @@ Approach    : Build → Understand → Improve
 Current     : Learning • Building • Experimenting
 ```
 
-I'm interested in more than one layer of technology.
+I like understanding **how the pieces connect**.
 
-I like understanding **what a system is supposed to solve, how the software works, where the data lives, what infrastructure keeps it running, what can break, and how the whole thing can be improved.**
+A project might start as a simple idea and eventually lead me into authentication, databases, networking, deployment, automation or something I hadn't planned to learn at all.
 
-That has naturally pulled me into:
-
-`Cloud` · `Linux` · `Software` · `Databases` · `AI` · `Security` · `Automation`
-
-I'm still building my foundations across several of these areas — and that's exactly why **Tech Explorer** fits how I work.
+That's usually where things get interesting.
 
 ---
 
 ## 🧠 What I'm About
 
-My direction is broader than a single job title, but it isn't random.
-
 ```text
-CORE        →  Information Systems
-
-BUILD       →  Software & Products
-
-SYSTEMS     →  Cloud · Linux · Networking
-
-LOGIC       →  Python · Automation
-
-SECURITY    →  Understanding & protecting systems
-
-AI          →  Orchestration · Agents · Practical integration
+BUILD       →  Software · Products
+SYSTEMS     →  Infrastructure · Networking
+AUTOMATE    →  Python · Workflows
+SECURE      →  Systems · Identity · Web
+EXPERIMENT  →  AI · Agents · Orchestration
 ```
 
-### Current signal
+### Current Signal
 
-> These aren't proficiency percentages. They're a snapshot of where my attention is currently going.
+> A snapshot of where my attention is going — not proficiency scores.
 
 ```text
 CLOUD       █████████░  Building foundations
@@ -90,12 +77,6 @@ AI SYSTEMS  ████████░░  Experimenting
 PRODUCTS    ██████████  Building
 ```
 
-My Information Systems background is part of what makes this combination interesting to me.
-
-I don't only want to know **how to code a feature**.
-
-I want to understand how the feature fits into the database, infrastructure, users, security, business process and wider system around it.
-
 ---
 
 ## 🛠️ Technical Stack
@@ -105,152 +86,155 @@ I want to understand how the feature fits into the database, infrastructure, use
 | **Languages** | Python · TypeScript · JavaScript · SQL |
 | **Web** | Next.js · React · Tailwind CSS |
 | **Backend & Data** | Supabase · PostgreSQL |
-| **Cloud & Deployment** | Vercel · AWS *(learning)* |
-| **Systems** | Linux · Networking fundamentals |
-| **Security** | Web security fundamentals · OWASP concepts |
-| **Developer Tools** | Git · GitHub · VS Code · Streamlit |
-| **Environment** | Linux Mint Cinnamon *(daily driver)* |
+| **Infrastructure** | Vercel · AWS *(learning)* · Networking |
+| **Systems & Security** | Linux · Git · Web security fundamentals |
+| **Tools** | GitHub · VS Code · Streamlit |
 
-### Tools I keep reaching for
+<br>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,tailwind,postgres,supabase,linux,git,github,vercel&perline=12" alt="Technology icons"/>
 </p>
 
-I don't treat this as a list of technologies I've “mastered.”
-
-It's simply the toolkit I'm currently **using, learning or building with**.
-
 ---
 
-## 🚀 Projects
+# 🚀 Selected Builds
 
-### 🔐 The Middleman
+## 🔐 The Middleman
 
 > **Escrow-backed digital commerce for Nigeria.**
 
-**The Middleman** is a digital marketplace designed around safer transactions between buyers and sellers of digital products and services.
+**The Middleman** is a marketplace designed around safer transactions between buyers and sellers of digital products and services.
 
-I'm working across both the product and technical system, including:
+I'm working across the product and its underlying transaction system, including:
 
 - marketplace workflows
-- authentication
-- buyer and seller identity
+- authentication and user identity
 - database architecture
-- order lifecycle
-- payments
+- buyer and seller flows
+- orders and payments
 - escrow transaction logic
 - deployment
 - responsive product experience
 
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Vercel`
 
-**Status:** `ACTIVE BUILD`
+**STATUS → `ACTIVE BUILD`**
 
 🌐 **[Visit The Middleman →](https://www.themiddleman.com.ng)**
 
 ---
 
-### 🤖 S.A.M.U.E.L.
+## 🤖 S.A.M.U.E.L.
 
 > **Smart Autonomous Multifunctional Utility Engine for Learning**
 
-A modular personal AI assistant project exploring **orchestration, automation, permissions and hybrid local/cloud AI architecture**.
+A modular personal AI assistant designed around the idea that an assistant can operate as a **coordinated system of specialized components**, rather than one giant AI process.
 
-Instead of treating an assistant as one giant AI process, the project explores a system where a central governor can coordinate different components and specialized agents.
+The project explores:
 
-Areas being explored include:
-
-- modular agent architecture
+- a central Governor
+- specialized sub-agents
 - task orchestration
 - permission handling
 - automation
-- local/cloud execution
-- structured AI workflows
+- hybrid local/cloud execution
 
-`Python` `AI Systems` `Automation` `Agent Architecture`
+`Python` · `AI Systems` · `Automation` · `Agent Architecture`
 
-**Status:** `EXPERIMENTAL BUILD`
+**STATUS → `EXPERIMENTAL BUILD`**
 
 📂 **[Explore S.A.M.U.E.L. →](https://github.com/samuelbukumni/SAMUEL)**
 
 ---
 
-### 📄 RUN-N-RAVE Proposal Engine
+## 📄 RUN-N-RAVE Proposal Engine
 
-> **Automating repetitive proposal preparation.**
+> **Turning repetitive document preparation into a workflow.**
 
-A Python and Streamlit tool designed to generate structured PDF proposals and reduce repetitive document preparation for brand activation and partnership workflows.
+A Python and Streamlit tool for generating structured PDF proposals for brand activations and partnerships.
 
-The project helped me explore how relatively small software tools can turn repetitive manual processes into structured workflows.
+It was built around a straightforward problem: reducing repetitive manual document preparation through a reusable workflow.
 
-`Python` `Streamlit` `PDF Automation`
+`Python` · `Streamlit` · `PDF Automation`
 
-**Status:** `BUILT`
+**STATUS → `BUILT`**
 
 📂 **[View repository →](https://github.com/samuelbukumni/Proposal-Architect)**
 
 ---
 
-## 📈 Currently
+## 📍 Currently
 
 ```bash
 buks@explorer:~$ status
 
-[+] Building and refining real software products
-[+] Strengthening cloud computing foundations
-[+] Learning networking more deeply
-[+] Using Linux as my daily environment
-[+] Improving Python through practical exercises
+[+] Building The Middleman
+[+] Improving Python through practical work
+[+] Strengthening networking fundamentals
+[+] Learning infrastructure & deployment
 [+] Developing stronger security foundations
 [+] Experimenting with AI orchestration
-[+] Studying Information Systems @ OAU
+[+] Turning ideas into things I can actually test
 ```
 
-Right now, I'm deliberately strengthening the fundamentals underneath the things I build.
+My priority right now is **stronger fundamentals and better projects**.
 
-That means spending more time on **cloud infrastructure, networking, Linux, Python and security**, while continuing to work on products rather than learning everything only in isolation.
-
-The objective isn't to collect technologies.
-
-It's to gradually become better at looking at a system and understanding **what is happening across its layers**.
+Rather than learning technologies in isolation, I prefer having something real that forces me to understand why a tool exists and when it should actually be used.
 
 ---
 
 ## 🧭 How I Work
 
-Most of my technical learning follows the same path:
-
 ```text
-IDEA
-  │
-  ▼
-BUILD SOMETHING
-  │
-  ▼
-SOMETHING BREAKS
-  │
-  ▼
-UNDERSTAND WHY
-  │
-  ▼
-LEARN THE SYSTEM
-  │
-  ▼
-BUILD IT BETTER
+      IDEA
+       │
+       ▼
+     BUILD
+       │
+       ▼
+    TEST IT
+       │
+       ├──────────────┐
+       │              │
+       ▼              │
+   IT BREAKS          │
+       │              │
+       ▼              │
+  UNDERSTAND WHY      │
+       │              │
+       ▼              │
+    IMPROVE IT ───────┘
 ```
 
-That's where I learn best.
+That's basically my learning loop.
 
-A product problem can send me into a database.
+Projects give me a reason to go deeper.
 
-A database problem can send me into authentication.
+When something works, I want to know **why**.
 
-Authentication can send me into security.
+When something doesn't, I usually end up learning even more.
 
-Deployment can send me into Linux or networking.
+---
 
-And eventually I understand more of the system than I did when I started.
+## 🗺️ Explorer Mode
+
+There is always another part of technology I haven't properly understood yet.
+
+For me, being a **Tech Explorer** doesn't mean trying to become an expert in everything.
+
+It means being willing to enter unfamiliar territory, understand enough to build something useful, and keep going deeper when the problem demands it.
+
+```text
+UNKNOWN
+   │
+   ▼
+LEARN ──→ BUILD ──→ TEST ──→ UNDERSTAND
+                           │
+                           └──→ NEXT TERRITORY
+```
+
+The map keeps expanding.
 
 ---
 
@@ -258,7 +242,7 @@ And eventually I understand more of the system than I did when I started.
 
 <div align="center">
 
-### Find me around the internet
+### `SELECT CHANNEL`
 
 <br>
 
@@ -271,7 +255,7 @@ And eventually I understand more of the system than I did when I started.
 </a>
 
 <a href="https://github.com/samuelbukumni">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:samuelbukumni@gmail.com">
@@ -286,7 +270,7 @@ And eventually I understand more of the system than I did when I started.
 
 <br>
 
-Open to **internships · junior technical roles · collaborations · open source · interesting projects**
+Open to **internships · junior technical opportunities · collaborations · open source**
 
 <br>
 
